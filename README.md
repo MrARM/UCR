@@ -1,16 +1,9 @@
 # Readme!
-##### This repository contains the Development build of Ultrapowa Royale Server, a C# server emulator for the game Clash Royale. 
-##### Keep in mind that this is the version written by the official Developer Team containing.
-
-* Berkan
-* LaserTrap
+##### This repository is a clone of the Development build of Ultrapowa Royale Server, a C# server emulator for the game Clash Royale. 
+##### This may be broken.
 
 ##### UCR is NOT affiliated with Supercell, or any other company.
-##### Help and Support: http://bit.ly/UltraPowa
 ##### Libsodium  requires the Visual C++ Redistributable for Visual Studio 2015.. If its not installed Sodium.SodiumCore will throw a DllNotFoundException.
-# Download
-* PreBuilt UCR -> 
-* APK -> 
 
 # License
 Ultrapowa Royale Server is free software: you can redistribute it and/or modify
