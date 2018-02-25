@@ -5,6 +5,11 @@
 ##### UCR is NOT affiliated with Supercell, or any other company.
 ##### Libsodium  requires the Visual C++ Redistributable for Visual Studio 2015.. If its not installed Sodium.SodiumCore will throw a DllNotFoundException.
 
+# Download
+* PreBuilt UCR -> https://github.com/MrARM/UCR/releases/download/1.0/UCR.zip
+
+
+
 # License
 Ultrapowa Royale Server is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
